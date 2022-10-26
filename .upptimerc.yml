@@ -6,6 +6,9 @@ sites:
   - name: Topfarmacia
     url: https://www.topfarmacia.it
     maxResponseTime: 5000
+  - name: Feedaty widget
+    url: https://widget.feedaty.com/public/js/feedaty.js?merchant=10213975&style_ver=2021&data-sku=36263
+    maxResponseTime: 1000
 #  - name: Wikipedia
 #    url: https://en.wikipedia.org
 #  - name: Hacker News
