@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.27%",
     "time": 1290,
-    "timeDay": 970,
-    "timeWeek": 1016,
-    "timeMonth": 1060,
+    "timeDay": 964,
+    "timeWeek": 1018,
+    "timeMonth": 1059,
     "timeYear": 1290,
     "dailyMinutesDown": {
       "2022-12-12": 22,
@@ -55,18 +55,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/widget.feedaty.com.ico",
     "slug": "feedaty-widget",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 607,
-    "timeDay": 594,
-    "timeWeek": 589,
+    "timeDay": 567,
+    "timeWeek": 588,
     "timeMonth": 605,
     "timeYear": 607,
-    "dailyMinutesDown": {
-      "2023-01-26": 12
-    }
+    "dailyMinutesDown": {}
   }
 ]
