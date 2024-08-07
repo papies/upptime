@@ -1,7 +1,7 @@
 url: https://widget.feedaty.com/public/js/feedaty.js?merchant=10213975&style_ver=2021&data-sku=36263
-status: up
+status: degraded
 code: 200
-responseTime: 768
-lastUpdated: 2024-08-07T16:19:47.600Z
+responseTime: 4379
+lastUpdated: 2024-08-07T16:43:22.311Z
 startTime: 2022-10-26T16:26:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
