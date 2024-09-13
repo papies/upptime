@@ -4,18 +4,20 @@
     "url": "https://www.topfarmacia.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.topfarmacia.it.ico",
     "slug": "topfarmacia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 678,
-    "timeDay": 1214,
+    "time": 679,
+    "timeDay": 1272,
     "timeWeek": 1263,
-    "timeMonth": 1090,
-    "timeYear": 685,
-    "dailyMinutesDown": {}
+    "timeMonth": 1088,
+    "timeYear": 686,
+    "dailyMinutesDown": {
+      "2024-09-13": 0
+    }
   },
   {
     "name": "Feedaty widget",
@@ -29,8 +31,8 @@
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.50%",
     "time": 624,
-    "timeDay": 385,
-    "timeWeek": 520,
+    "timeDay": 428,
+    "timeWeek": 515,
     "timeMonth": 594,
     "timeYear": 624,
     "dailyMinutesDown": {
