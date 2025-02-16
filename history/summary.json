@@ -4,19 +4,19 @@
     "url": "https://www.topfarmacia.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.topfarmacia.it.ico",
     "slug": "topfarmacia",
-    "status": "down",
+    "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 824,
-    "timeDay": 780,
-    "timeWeek": 678,
-    "timeMonth": 692,
+    "timeDay": 814,
+    "timeWeek": 684,
+    "timeMonth": 693,
     "timeYear": 825,
     "dailyMinutesDown": {
-      "2025-02-16": 0
+      "2025-02-16": 11
     }
   },
   {
