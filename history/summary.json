@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 376,
-    "timeDay": 324,
+    "timeDay": 338,
     "timeWeek": 326,
     "timeMonth": 334,
     "timeYear": 376,
@@ -24,19 +24,19 @@
     "url": "https://widget.feedaty.com/public/js/feedaty.js?merchant=10213975&style_ver=2021&data-sku=36263",
     "icon": "https://icons.duckduckgo.com/ip3/widget.feedaty.com.ico",
     "slug": "feedaty-widget",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.66%",
-    "uptimeDay": "73.77%",
-    "uptimeWeek": "66.37%",
+    "uptimeDay": "73.73%",
+    "uptimeWeek": "66.36%",
     "uptimeMonth": "88.90%",
     "uptimeYear": "98.81%",
     "time": 502,
-    "timeDay": 1300,
-    "timeWeek": 1456,
-    "timeMonth": 740,
+    "timeDay": 1482,
+    "timeWeek": 1474,
+    "timeMonth": 746,
     "timeYear": 502,
     "dailyMinutesDown": {
-      "2026-05-15": 362,
+      "2026-05-15": 363,
       "2026-05-14": 417,
       "2026-05-13": 314,
       "2026-05-12": 558,
@@ -90,8 +90,7 @@
       "2025-10-26": 42,
       "2025-10-25": 16,
       "2025-10-24": 25,
-      "2025-10-23": 26,
-      "2025-10-20": 17
+      "2025-10-23": 26
     }
   }
 ]
