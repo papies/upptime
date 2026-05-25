@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 375,
-    "timeDay": 251,
-    "timeWeek": 285,
+    "timeDay": 236,
+    "timeWeek": 283,
     "timeMonth": 315,
     "timeYear": 376,
     "dailyMinutesDown": {
@@ -26,16 +26,17 @@
     "slug": "feedaty-widget",
     "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "49.54%",
-    "uptimeWeek": "63.49%",
-    "uptimeMonth": "79.31%",
-    "uptimeYear": "98.24%",
+    "uptimeDay": "65.52%",
+    "uptimeWeek": "63.77%",
+    "uptimeMonth": "79.33%",
+    "uptimeYear": "98.23%",
     "time": 517,
-    "timeDay": 1403,
-    "timeWeek": 1325,
-    "timeMonth": 1030,
+    "timeDay": 1183,
+    "timeWeek": 1327,
+    "timeMonth": 1031,
     "timeYear": 517,
     "dailyMinutesDown": {
+      "2026-03-14": 40,
       "2026-03-29": 35,
       "2026-04-13": 78,
       "2026-04-12": 10,
@@ -60,7 +61,7 @@
       "2026-05-21": 503,
       "2026-05-22": 315,
       "2026-05-23": 810,
-      "2026-05-24": 628
+      "2026-05-24": 620
     }
   }
 ]
