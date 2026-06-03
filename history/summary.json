@@ -26,9 +26,9 @@
     "slug": "feedaty-widget",
     "status": "degraded",
     "uptime": "99.46%",
-    "uptimeDay": "87.93%",
-    "uptimeWeek": "77.20%",
-    "uptimeMonth": "76.66%",
+    "uptimeDay": "86.25%",
+    "uptimeWeek": "76.96%",
+    "uptimeMonth": "76.60%",
     "uptimeYear": "98.05%",
     "time": 529,
     "timeDay": 950,
@@ -61,7 +61,7 @@
       "2026-05-31": 242,
       "2026-06-01": 277,
       "2026-06-02": 173,
-      "2026-06-03": 1
+      "2026-06-03": 25
     }
   }
 ]
