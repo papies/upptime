@@ -25,14 +25,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/widget.feedaty.com.ico",
     "slug": "feedaty-widget",
     "status": "degraded",
-    "uptime": "99.39%",
+    "uptime": "99.38%",
     "uptimeDay": "68.46%",
-    "uptimeWeek": "67.48%",
-    "uptimeMonth": "73.36%",
-    "uptimeYear": "97.78%",
+    "uptimeWeek": "67.13%",
+    "uptimeMonth": "73.06%",
+    "uptimeYear": "97.75%",
     "time": 544,
     "timeDay": 1191,
-    "timeWeek": 1215,
+    "timeWeek": 1224,
     "timeMonth": 1259,
     "timeYear": 545,
     "dailyMinutesDown": {
@@ -64,7 +64,7 @@
       "2026-06-14": 619,
       "2026-06-15": 601,
       "2026-06-16": 460,
-      "2026-06-17": 1
+      "2026-06-17": 131
     }
   }
 ]
