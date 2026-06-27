@@ -24,16 +24,16 @@
     "url": "https://widget.feedaty.com/public/js/feedaty.js?merchant=10213975&style_ver=2021&data-sku=36263",
     "icon": "https://icons.duckduckgo.com/ip3/widget.feedaty.com.ico",
     "slug": "feedaty-widget",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "77.20%",
+    "uptimeDay": "76.13%",
     "uptimeWeek": "55.86%",
-    "uptimeMonth": "70.87%",
+    "uptimeMonth": "70.83%",
     "uptimeYear": "97.57%",
     "time": 557,
-    "timeDay": 996,
-    "timeWeek": 1132,
-    "timeMonth": 1170,
+    "timeDay": 987,
+    "timeWeek": 1129,
+    "timeMonth": 1169,
     "timeYear": 558,
     "dailyMinutesDown": {
       "2026-05-30": 66,
@@ -64,7 +64,7 @@
       "2026-06-24": 859,
       "2026-06-25": 736,
       "2026-06-26": 515,
-      "2026-06-27": 43
+      "2026-06-27": 58
     }
   }
 ]
