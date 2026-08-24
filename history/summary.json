@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 373,
-    "timeDay": 312,
-    "timeWeek": 356,
+    "timeDay": 328,
+    "timeWeek": 358,
     "timeMonth": 371,
     "timeYear": 374,
     "dailyMinutesDown": {
@@ -24,17 +24,17 @@
     "url": "https://widget.feedaty.com/public/js/feedaty.js?merchant=10213975&style_ver=2021&data-sku=36263",
     "icon": "https://icons.duckduckgo.com/ip3/widget.feedaty.com.ico",
     "slug": "feedaty-widget",
-    "status": "degraded",
-    "uptime": "99.72%",
-    "uptimeDay": "48.43%",
-    "uptimeWeek": "50.41%",
-    "uptimeMonth": "87.01%",
-    "uptimeYear": "98.92%",
-    "time": 689,
-    "timeDay": 1287,
-    "timeWeek": 1299,
-    "timeMonth": 1279,
-    "timeYear": 694,
+    "status": "up",
+    "uptime": "99.71%",
+    "uptimeDay": "40.47%",
+    "uptimeWeek": "49.80%",
+    "uptimeMonth": "86.51%",
+    "uptimeYear": "98.88%",
+    "time": 690,
+    "timeDay": 1504,
+    "timeWeek": 1324,
+    "timeMonth": 1286,
+    "timeYear": 695,
     "dailyMinutesDown": {
       "2026-08-16": 261,
       "2026-08-17": 729,
@@ -44,7 +44,7 @@
       "2026-08-21": 439,
       "2026-08-22": 568,
       "2026-08-23": 720,
-      "2026-08-24": 542
+      "2026-08-24": 757
     }
   }
 ]
