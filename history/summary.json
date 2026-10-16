@@ -24,12 +24,12 @@
     "slug": "feedaty-widget",
     "status": "degraded",
     "uptime": "98.50%",
-    "uptimeDay": "60.79%",
-    "uptimeWeek": "47.14%",
+    "uptimeDay": "60.67%",
+    "uptimeWeek": "46.79%",
     "uptimeMonth": "46.97%",
-    "uptimeYear": "94.04%",
+    "uptimeYear": "94.03%",
     "time": 769,
-    "timeDay": 1300,
+    "timeDay": 1353,
     "timeWeek": 1421,
     "timeMonth": 1450,
     "timeYear": 774,
@@ -74,7 +74,7 @@
       "2026-10-13": 1319,
       "2026-10-14": 1195,
       "2026-10-15": 568,
-      "2026-10-16": 1
+      "2026-10-16": 35
     }
   }
 ]
