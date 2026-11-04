@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/widget.feedaty.com.ico",
     "slug": "feedaty-widget",
     "status": "degraded",
-    "uptime": "98.52%",
-    "uptimeDay": "35.70%",
+    "uptime": "98.51%",
+    "uptimeDay": "28.94%",
     "uptimeWeek": "40.67%",
-    "uptimeMonth": "42.47%",
-    "uptimeYear": "94.03%",
+    "uptimeMonth": "42.25%",
+    "uptimeYear": "94.01%",
     "time": 794,
     "timeDay": 1603,
     "timeWeek": 1148,
@@ -74,7 +74,7 @@
       "2026-11-01": 1133,
       "2026-11-02": 800,
       "2026-11-03": 963,
-      "2026-11-04": 1
+      "2026-11-04": 98
     }
   }
 ]
