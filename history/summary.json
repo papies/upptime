@@ -10,7 +10,7 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 359,
+    "time": 358,
     "timeDay": 303,
     "timeWeek": 423,
     "timeMonth": 379,
@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/widget.feedaty.com.ico",
     "slug": "feedaty-widget",
     "status": "degraded",
-    "uptime": "98.42%",
+    "uptime": "98.41%",
     "uptimeDay": "13.74%",
-    "uptimeWeek": "49.89%",
-    "uptimeMonth": "43.27%",
-    "uptimeYear": "93.57%",
+    "uptimeWeek": "47.95%",
+    "uptimeMonth": "43.26%",
+    "uptimeYear": "93.54%",
     "time": 818,
     "timeDay": 1403,
     "timeWeek": 1214,
@@ -77,7 +77,7 @@
       "2026-11-16": 372,
       "2026-11-17": 489,
       "2026-11-18": 1293,
-      "2026-11-19": 1
+      "2026-11-19": 196
     }
   }
 ]
